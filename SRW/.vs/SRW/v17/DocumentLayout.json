@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\SRW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|C:\\Users\\hp\\Downloads\\SRW\\srw\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|solutionrelative:srw\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|c:\\users\\hp\\downloads\\srw\\srw\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|solutionrelative:srw\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|C:\\Users\\hp\\Downloads\\SRW\\srw\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|solutionrelative:srw\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|C:\\Users\\hp\\Downloads\\SRW\\srw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|solutionrelative:srw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|C:\\Users\\hp\\Downloads\\SRW\\srw\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|solutionrelative:srw\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|C:\\Users\\hp\\Downloads\\SRW\\srw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|solutionrelative:srw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|C:\\Users\\hp\\Downloads\\SRW\\srw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD5A6AE2-B940-4163-91D0-5BAB23C09FD5}|SRW\\SRW.csproj|solutionrelative:srw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Form2.cs",
+              "RelativeDocumentMoniker": "SRW\\Form2.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Form2.cs*",
+              "RelativeToolTip": "SRW\\Form2.cs*",
+              "ViewState": "AQIAAFwAAAAAAAAAAAASwHAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:00:37.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "SRW\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Form2.Designer.cs",
+              "RelativeToolTip": "SRW\\Form2.Designer.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAANEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:43:34.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Program.cs",
+              "RelativeDocumentMoniker": "SRW\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Program.cs",
+              "RelativeToolTip": "SRW\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:13:51.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Form2.cs",
+              "RelativeDocumentMoniker": "SRW\\Form2.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Form2.cs [Design]*",
+              "RelativeToolTip": "SRW\\Form2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:53:42.792Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SRW\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Form1.Designer.cs",
+              "RelativeToolTip": "SRW\\Form1.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:21:05.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Form1.cs",
+              "RelativeDocumentMoniker": "SRW\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Form1.cs",
+              "RelativeToolTip": "SRW\\Form1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:48:31.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Form1.cs",
+              "RelativeDocumentMoniker": "SRW\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\SRW\\SRW\\Form1.cs [Design]",
+              "RelativeToolTip": "SRW\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:46:22.523Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
